@@ -55,3 +55,28 @@ ul {
   
 }
 
+.red {
+  color: red;
+}
+
+::placeholder {
+  color: black;
+}
+
+.clock {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+ 
+  
+}
+
+
+.del {
+  margin-left: 6px;
+  color: black;
+}
+
+li {
+  font-size: 20px;
+}
